@@ -1,4 +1,4 @@
-# Velovity-Solutions
+Velovity-Solutions
 # AI Internship – Week 1 Tasks
 
 This repository contains all my work from **Week 1** of the Artificial Intelligence Internship by Velocity Solutions.
