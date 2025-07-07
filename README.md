@@ -1,5 +1,5 @@
-Velovity-Solutions
-# AI Internship – Week 1 Tasks
+# Velovity-Solutions
+## AI Internship – Week 1 Tasks
 
 This repository contains all my work from **Week 1** of the Artificial Intelligence Internship by Velocity Solutions.
 
@@ -55,4 +55,4 @@ Week 1 focused on building fundamental understanding of AI and implementing basi
 
 ## 📁 File Structure
 
-- `Week1.ipynb` → My complete Colab notebook with all the work
+- `Week1.ipynb` → My complete Colab notebook with all the work of Week 1
