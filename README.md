@@ -183,13 +183,15 @@ Proposed and solved a real-world image classification problem:
 
 ---
 
-##Drive Links to notebooks
-- Week 1 → `https://colab.research.google.com/drive/12ucA5eNC0mR4TXsNzmI6VAGtrhJ3Bfzx?usp=drive_link `
-- Week 2 → `https://colab.research.google.com/drive/1abW4Dt4EBVtwXn0yVCWZqb8gKrSscrRD?usp=drive_link`
-- Week 3 → `https://colab.research.google.com/drive/1Pg53DqeishP7PKC12YCTmuHPppqG3xsb?usp=drive_link`
-- Week 4 → `https://colab.research.google.com/drive/1wruhK3Qe0UjkzySbEO681u_p5ZGmvt81?usp=drive_link`
+## Drive Links to Notebooks
+
+- [Week 1](https://colab.research.google.com/drive/12ucA5eNC0mR4TXsNzmI6VAGtrhJ3Bfzx?usp=drive_link)
+- [Week 2](https://colab.research.google.com/drive/1abW4Dt4EBVtwXn0yVCWZqb8gKrSscrRD?usp=drive_link)
+- [Week 3](https://colab.research.google.com/drive/1Pg53DqeishP7PKC12YCTmuHPppqG3xsb?usp=drive_link)
+- [Week 4](https://colab.research.google.com/drive/1wruhK3Qe0UjkzySbEO681u_p5ZGmvt81?usp=drive_link)
 
 ---
+
 
 ## Summary
 
