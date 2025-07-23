@@ -183,6 +183,14 @@ Proposed and solved a real-world image classification problem:
 
 ---
 
+##Drive Links to notebooks
+- Week 1 → `https://colab.research.google.com/drive/12ucA5eNC0mR4TXsNzmI6VAGtrhJ3Bfzx?usp=drive_link `
+- Week 2 → `https://colab.research.google.com/drive/1abW4Dt4EBVtwXn0yVCWZqb8gKrSscrRD?usp=drive_link`
+- Week 3 → `https://colab.research.google.com/drive/1Pg53DqeishP7PKC12YCTmuHPppqG3xsb?usp=drive_link`
+- Week 4 → `https://colab.research.google.com/drive/1wruhK3Qe0UjkzySbEO681u_p5ZGmvt81?usp=drive_link`
+
+---
+
 ## Summary
 
 Throughout the 4 weeks, I worked on a wide range of AI applications including rule-based systems, search algorithms, NLP pipelines, machine learning models, and deep learning-based image classification. In the final project, I successfully built and deployed a glasses detection system, tackled multiple real-world issues during implementation, and gained hands-on experience in model training, testing, and computer vision.
